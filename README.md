@@ -1,5 +1,5 @@
 # **American Express Case Study**
-![Alt text](Images/American_Express_Cover)
+![Alt text](Datasets/American_Express_cover.jpg)
 ## **Overview**
 This project provides a comprehensive financial analysis and valuation of **American Express Co. (AXP)** within the financial services industry. The study evaluates market positioning, revenue streams, profitability, and projections from 2024 to 2030. Using a **Discounted Cash Flow (DCF)** model, regression analysis, and competitive benchmarking, this report offers actionable insights for investors.
 
